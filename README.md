@@ -81,6 +81,7 @@ dt.predict(pd.DataFrame([[5,6]], columns=["Position", "Level"]))
 ## Output:
 
 **Head Values**
+
 ![Screenshot 2025-05-12 181141](https://github.com/user-attachments/assets/8ab7b5e8-8629-4307-bc22-442333ca09e6)
 
 **DataFrame Info**
